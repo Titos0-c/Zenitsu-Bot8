@@ -9,8 +9,8 @@ global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
-global.botname = 'Zenitsu-Bot8' //ur bot name
-global.ownernumber = '917029257330' //ur owner number
+global.botname = 'Vagins-Bot8' //ur bot name
+global.ownernumber = '24160126204 //ur owner number
 global.ownername = '🦄Dream Guy Deepak' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
